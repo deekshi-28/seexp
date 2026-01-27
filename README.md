@@ -1,2 +1,2 @@
-# This repository was edited as part of a Git and GitHub practical.seexp
-
+This repository is for SE practical.
+This file was edited for Git and GitHub practical.
